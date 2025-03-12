@@ -1,9 +1,9 @@
 <script setup>
-import ElementDemo from './views/ElementDemo.vue'
+import EmpList from './views/EmpList.vue'
 </script>
 
 <template>
-  <ElementDemo />
+  <EmpList />
 </template>
 
 <style scoped>
